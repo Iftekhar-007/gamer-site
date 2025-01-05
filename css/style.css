@@ -326,6 +326,7 @@
 .anniversary{
     padding-left: 250px;
     padding-right: 250px;
+    /* margin-bottom: 60px; */
     /* justify-content: space-between; */
 }
 
@@ -339,3 +340,51 @@
 
 
 /* anniversary class end */
+
+/* online class css start */
+
+.online{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    padding: 0px 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.photons{
+    display: flex;
+    position: relative; 
+}
+
+.text420{
+    text-align:left;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero1{
+    /* position: relative; */
+}
+
+.hero2{
+    position: absolute;
+    z-index: +1;
+    margin-left: 525px;
+    margin-top: 420px;
+}
+
+.text420 h1{
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.text420 span{
+    color: #F948B2;
+}
+
+
+/* online class css end */
