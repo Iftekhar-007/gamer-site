@@ -274,3 +274,67 @@
 }
 
 /* cards css end */
+
+/* anniversary class start */
+
+.text45{
+    /* width: 30%; */
+    /* align-items: center;
+    justify-content: center;
+    text-align: center;  */
+    padding-left: 10%;
+}
+
+.text45 h1{
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.text45 span{
+    color: #F948B2;
+}
+
+.text45 p{
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.anni1{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.photon{
+    /* background-image: url(../images/Rectangle\ 5.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    /* width: 40%; */
+    /* size:100%; */
+    position: relative;
+}
+
+.anniversary{
+    padding-left: 250px;
+    padding-right: 250px;
+    /* justify-content: space-between; */
+}
+
+.img67{
+    /* width: 30%; */
+    margin-left:620px;
+    position: absolute;
+    margin-top: 480px;
+    z-index: +1;
+}
+
+
+/* anniversary class end */
