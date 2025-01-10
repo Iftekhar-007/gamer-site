@@ -363,10 +363,6 @@
     align-items: center;
 }
 
-.hero1{
-    /* position: relative; */
-}
-
 .hero2{
     position: absolute;
     z-index: +1;
